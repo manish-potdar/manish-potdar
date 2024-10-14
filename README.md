@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Manish Potdar
 - 👀 I’m interested in Web Devlopment, Machine Learning and AI, Competative Programming, Ethical Hacking, and DevOps
-- 🌱 I’m currently Pursuing Bachelor's Degree in Computer Engineering from Sinhgad College Of Engineering Pune
+- 🌱 I’m currently Pursuing Master's Degree in Computer Engineering from Indian Institute of Technology, Bombay (IIT Bombay).
+- I have completed my Bachelor's Degree from Savitribai Phule Pune University.
 <!-- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me : potdarmanish0@gmail.com
 
